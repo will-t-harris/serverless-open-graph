@@ -12,7 +12,7 @@ exports.handler = async function (event, ctx) {
 		</head>
 
 		<body>
-			<div id="test">hello</div>
+			<div id="test"><div>hello</div</div>
 		</body>
 	</html>
 	`);
