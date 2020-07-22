@@ -1,2 +1,2 @@
 install:
-	echo "installed"
+	cd functions/gen-og-image && npm i
